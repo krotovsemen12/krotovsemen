@@ -1,0 +1,30 @@
+{
+  "name": "krotovsemen",
+  "version": "1.0.0",
+  "description": "A Node.js module to calculate the phase of the moon based on a given date.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/krotovsemen12/krotovsemen"
+  },
+  "dependencies": {
+	  "carolscott-code": "1.0.0",
+"edwardevans": "1.0.0",
+"annef": "1.0.0",
+"zyat": "1.0.0",
+"ls-v1": "1.0.0",
+"anthonyjones": "1.0.0",
+"petrivany": "1.0.0",
+"sharondavis": "1.0.0",
+    "moment": "^2.29.1"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/krotovsemen12/krotovsemen/issues"
+  },
+  "homepage": "https://github.com/krotovsemen12/krotovsemen#readme"
+}
